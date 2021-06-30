@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![Karols's GitHub public stats](https://github-readme-stats-kpucynski.vercel.app/api?username=kpucynski) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpucynski&layout=compact)](https://github.com/kpucynski/github-readme-stats)
 
 <!--
+![Karols's GitHub public stats](https://github-readme-stats-kpucynski.vercel.app/api?username=kpucynski) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpucynski&layout=compact)](https://github.com/kpucynski/github-readme-stats)
+
 **kpucynski/kpucynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
